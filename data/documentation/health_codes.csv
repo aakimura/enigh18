@@ -1,0 +1,72 @@
+code|description
+J001|Servicios medicos durante el embarazo - Honorarios por servicios profesionales: cirugía, anestesia, etcétera
+J002|Servicios medicos durante el embarazo - Hospitalización
+J003|Servicios medicos durante el embarazo - Análisis clínicos y estudios médicos: rayos X, ultrasonido, etcétera
+J004|Servicios medicos durante el embarazo - Medicamentos recetados y material de curación
+J005|Servicios medicos durante el embarazo - Servicios de partera
+J006|Servicios medicos durante el embarazo - Otros: servicio de ambulancia, etcétera
+J007|Servicios y medicamentos durante el embarazo - Consultas médicas
+J008|Servicios y medicamentos durante el embarazo - Consultas, placas, puentes dentales, dentaduras, amalgamas, coronas y otros
+J009|Servicios y medicamentos durante el embarazo - Medicamentos recetados
+J010|Servicios y medicamentos durante el embarazo - Vitaminas y complementos alimenticios
+J011|Servicios y medicamentos durante el embarazo - Análisis clínicos y estudios médicos: rayos X, ultrasonidos
+J012|Servicios y medicamentos durante el embarazo - Hospitalización durante el embarazo (no parto)
+J013|Servicios y medicamentos durante el embarazo - Servicios de partera
+J014|Servicios y medicamentos durante el embarazo - Hierbas medicinales, remedios caseros, etcétera
+J015|Servicios y medicamentos durante el embarazo - Otros servicios: ambulancia, aplicación de inyecciones, vacunas, etcétera
+J016|Consulta externa - Consultas médico general
+J017|Consulta externa - Consultas médico especialista (pediatría y ginecología, etcétera)
+J018|Consulta externa - Consultas dentales (placas dentales o prótesis dentales, braquets,etcétera)
+J019|Consulta externa - Análisis clínicos y estudios médicos: rayos X, tamiz
+J020|Medicamentos - Diarrea, infecciones y malestar estomacal
+J021|Medicamentos - Gripe
+J022|Medicamentos - Piel
+J023|Medicamentos - AlergiasJ024Tos
+J025|Medicamentos - Infecciones de la garganta
+J026|Medicamentos - Fiebre
+J027|Medicamentos - Inflamación
+J028|Medicamentos - Otras infecciones (antibióticos)
+J029|Medicamentos - Dolor de cabeza y migraña
+J030|Medicamentos - Otro tipo de dolores
+J031|Medicamentos - Presión arterial
+J032|Medicamentos - Diabetes
+J033|Medicamentos - Vitaminas
+J034|Medicamentos - Anticonceptivos
+J035|Medicamentos - Otros medicamentos
+J036|Control de peso - Consultas médicas
+J037|Control de peso - Medicamentos y productos
+J038|Control de peso - Tratamiento
+J039|Atencion hospitalaria - Honorarios por servicios profesionales: cirujano, anestesista, etcétera
+J040|Atencion hospitalaria - Hospitalización
+J041|Atencion hospitalaria - Análisis clínicos y estudios médicos (rayos X, electros, etcétera)
+J042|Atencion hospitalaria - Medicamentos recetados y material de curación
+J043|Atencion hospitalaria - Otros: servicios de ambulancia, oxígeno, suero, sondas, bolsas de diálisis y de orina, cómodos, nebulizaciones, etcétera
+J044|Diarrea, infecciones y malestar estomacal
+J045|Medicamentos sin receta - Gripe
+J046|Medicamentos sin receta - Piel
+J047|Medicamentos sin receta - Alergias
+J048|Medicamentos sin receta - Tos
+J049|Medicamentos sin receta - Infecciones de la garganta
+J050|Medicamentos sin receta - Fiebre
+J051|Medicamentos sin receta - Inflamación
+J052|Medicamentos sin receta - Otras infecciones (antibióticos)
+J053|Medicamentos sin receta - Dolor de cabeza y migraña
+J054|Medicamentos sin receta - Otro tipo de dolores
+J055|Medicamentos sin receta - Vitaminas
+J056|Medicamentos sin receta - Presión arterial
+J057|Medicamentos sin receta - Diabetes
+J058|Medicamentos sin receta - Anticonceptivos
+J059|Medicamentos sin receta - Otros medicamentos
+J060|Material de curacion - Algodón, gasas, vendas, jeringas, etcétera
+J061|Material de curacion - Alcohol, merthiolate, solución antiséptica, botiquín de primeros auxilios, etcétera
+J062|Medicina alternativa - Consultas con el curandero, huesero, quiropráctico, etcétera
+J063|Medicina alternativa - Medicamento naturista, hierbas medicinales, remedios caseros, Omnilife, Herbalife
+J064|Medicina alternativa - Medicamento homeopáticos
+J065|Aparatos ortopedicos y terapeuticos - Anteojos y lentes de contacto e intraoculares
+J066|Aparatos ortopedicos y terapeuticos - Aparatos para sordera
+J067|Aparatos ortopedicos y terapeuticos - Aparatos ortopédicos y para terapia, silla de ruedas, andadera, muletas, etcétera
+J068|Aparatos ortopedicos y terapeuticos - Reparación y mantenimiento de aparatos ortopédicos
+J069|Seguro medico - Otros: pago de enfermeras y personal al cuidado de enfermos, terapias, baumanómetro, glucómetro, tiras reactivas, cómodo, etcétera
+J070|Seguro medico - Cuotas a hospitales o clínicas
+J071|Seguro medico - Cuotas a compañías de seguros
+J072|Seguro medico - Cuotas de seguro popular
